@@ -16,7 +16,7 @@
 
 .hero-img::before {
     content: "";
-    background: url("https://images.unsplash.com/photo-1643186042811-63a2b94c7f98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80");
+    background: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80");
     background-size: cover ;
     background-position: center top;
     height: 100%;
